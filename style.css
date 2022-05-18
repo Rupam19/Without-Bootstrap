@@ -1,8 +1,28 @@
 .logo {
   height: 80px;
   width: 80px;
+  margin-left: 20px;
 }
 
 .logoname {
   padding-left: 10px;
+  padding-top: 10px;
+}
+
+.heading {
+  position: absolute;
+}
+
+.topnav {
+  position: absolute;
+  margin: 30px 10px 10px 70%;
+}
+
+.navtext {
+  padding: 5px;
+  color: black;
+}
+
+.navtext:hover {
+  color: blue;
 }
