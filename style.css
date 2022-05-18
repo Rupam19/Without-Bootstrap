@@ -1,15 +1,22 @@
+/* ------------------Heading-------------------------- */
+.container_1 {
+  background-color: rgb(245, 236, 142);
+  height: 100px;
+}
+
 .logo {
   height: 80px;
   width: 80px;
   margin-left: 20px;
+  margin-top: 7px;
 }
 
 .logoname {
   padding-left: 10px;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
-.heading {
+.logoandname {
   position: absolute;
 }
 
@@ -25,4 +32,18 @@
 
 .navtext:hover {
   color: blue;
+}
+
+/* ---------------------Main section ------------------------------------------ */
+
+.container_2 {
+  height: 1000px;
+  background-color: rgb(243, 185, 77);
+}
+
+.heading {
+  font-size: xx-large;
+  padding-top: 20px;
+  margin: 0%;
+  text-align: center;
 }
